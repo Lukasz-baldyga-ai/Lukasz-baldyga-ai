@@ -25,9 +25,9 @@ My focus is building AI capability that scales beyond one task - workflows, agen
 **About Me**
 - Senior Digital Product Manager & Product Owner at Volvo Construction Equipment - Product Individual & Insight and Data Quality Tracker
 - Path: design/UX → analytics → product ownership → product management
-- CliftonStrengths: Woo · Ideation · Positivity · Developer · Activator — I connect people, generate ideas, bring energy, grow others, and turn ideas into action
+- CliftonStrengths: Woo · Ideation · Positivity · Developer · Activator - I connect people, generate ideas, bring energy, grow others, and turn ideas into action
 
-🎣 Outside work: husband, father of two, carp angler, gym regular — patience, preparation and consistency show up in everything I build.
+🎣 Outside work: husband, father of two, carp angler, gym regular - patience, preparation and consistency show up in everything I build.
 
 Always experimenting, always learning. Open to a conversation about AI-native product management, data products or building with agents.
 <!--
